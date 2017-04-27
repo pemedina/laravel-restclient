@@ -1,6 +1,6 @@
 {
     "name": "nathanmac/laravel-restclient",
-    "description": "Simple RestClient for Laravel 4",
+    "description": "Simple RestClient for Laravel 5",
     "license": "MIT",
     "authors": [
         {
@@ -9,9 +9,9 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=5.6.4",
         "lib-curl": "*",
-        "illuminate/support": "4.2.*"
+        "illuminate/support": "5.4.*"
     },
     "autoload": {
         "psr-0": {
